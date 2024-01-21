@@ -535,7 +535,7 @@ section {
 .about .image {
   background: url("assets/img/IMG_20220226_133124.jpg") center center no-repeat;
   background-size: cover;
-  min-height: 400px;
+  min-height: 200px;
 }
 
 @media (max-width: 991px) {
