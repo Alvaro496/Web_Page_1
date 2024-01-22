@@ -331,7 +331,7 @@ h6 {
 #hero {
   width: 100%;
   height: 75vh;
-  background: url(assets/img/GARP_FRM.webp) top center;
+  background: url(assets/img/risk-manager.jpg) top center;
   background-size: cover;
   padding: 0 15px;
 }
@@ -533,7 +533,7 @@ section {
 }
 
 .about .image {
-  background: url("assets/img/IMG_20220226_133124.jpg") center center no-repeat;
+  background: url(assets/img/IMG_20220718_183717.jpg) center center no-repeat;
   background-size: cover;
   min-height: 400px;
 }
